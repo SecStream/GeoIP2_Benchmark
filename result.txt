@@ -1,0 +1,14 @@
+MySQL
+Requests per second: 2488.7330097392
+
+PostgreSQL cidr
+Requests per second: 226.0694028729
+
+PostgreSQL range
+Requests per second: 1277.323545639
+
+MaxMind-DB-Reader-php (mmdb)
+Requests per second: 1671.9433137494
+
+MaxMind-DB-Reader-php (mmdb) + maxminddb.so
+Requests per second: 74064.89037416
